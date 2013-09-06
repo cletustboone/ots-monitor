@@ -1,9 +1,9 @@
 {
   "name": "ots-watcher",
   "description": "Watch a directory for files and emit events.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "bin": {
-    "ots-monitor": "bin/ots-monitor"
+    "ots-monitor": "bin/monitor"
   },
   "preferGlobal": true,
   "dependencies": {
