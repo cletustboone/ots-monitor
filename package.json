@@ -1,5 +1,5 @@
 {
-  "name": "ots-watcher",
+  "name": "ots-monitor",
   "description": "Watch a directory for files and emit events.",
   "version": "0.1.0",
   "bin": {
