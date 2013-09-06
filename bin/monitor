@@ -1,0 +1,8 @@
+#!/usr/bin/env node
+
+var
+options = require("../lib/cli").options,
+Monitor = require("../lib/monitor"),
+monitor;
+
+monitor = new Monitor( options );
